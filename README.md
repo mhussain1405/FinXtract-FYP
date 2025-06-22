@@ -25,6 +25,8 @@ Check out the Technical report uploaded in the repository for a full breakdown o
 1. Reduced manual processing time by over 80%
 2. Achieved 95–98% extraction accuracy across diverse financial documents
 
+Try the tool live: [FinXtract](https://www.datapsx.com/)
+
 📦 Tech Stack:
 Flask • React • Node.js • MongoDB • LangChain • DeepSeek-R1 • PaddleOCR • FAISS • PyMuPDF • Python
 
